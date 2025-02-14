@@ -1,2 +1,2 @@
 # html-london-trip 
-London trip Boolean exercise
+London trip Boolean exercise.
